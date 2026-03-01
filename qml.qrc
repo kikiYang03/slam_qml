@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ProductSelector.qml</file>
+        <file>MainNavigation.qml</file>
+        <file>ConnectionPage.qml</file>
+        <file>ParameterPage.qml</file>
+        <file>VisualizationPage.qml</file>
+        <file>Visualizer2D.qml</file>
+        <file>Visualizer3D.qml</file>
+    </qresource>
+</RCC>
